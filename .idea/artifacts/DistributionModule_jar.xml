@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DistributionModule:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DistributionModule_jar</output-path>
+    <root id="archive" name="DistributionModule.jar">
+      <element id="module-output" name="DistributionModule" />
+      <element id="module-output" name="DataModule" />
+      <element id="module-output" name="AgentModule" />
+    </root>
+  </artifact>
+</component>

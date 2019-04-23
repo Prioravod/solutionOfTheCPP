@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UIModule:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UIModule_jar</output-path>
+    <root id="archive" name="UIModule.jar">
+      <element id="module-output" name="UIModule" />
+      <element id="module-output" name="DistributionModule" />
+      <element id="module-output" name="DataModule" />
+      <element id="module-output" name="AgentModule" />
+    </root>
+  </artifact>
+</component>
